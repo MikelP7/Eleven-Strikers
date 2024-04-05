@@ -1,0 +1,1 @@
+Parada.o: Parada.s

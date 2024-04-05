@@ -1,0 +1,1 @@
+Victory.o: Victory.s

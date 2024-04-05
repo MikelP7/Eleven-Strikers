@@ -1,0 +1,1 @@
+Fueratiempo.o: Fueratiempo.s
